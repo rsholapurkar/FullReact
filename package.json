@@ -1,0 +1,22 @@
+{
+  "name": "fullreact",
+  "version": "1.0.0",
+  "description": "Basic React project Trying to learn React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsholapurkar/FullReact.git"
+  },
+  "author": "rsholapurkar",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/rsholapurkar/FullReact/issues"
+  },
+  "homepage": "https://github.com/rsholapurkar/FullReact#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
